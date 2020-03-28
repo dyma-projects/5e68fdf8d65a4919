@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+.square {
+	height: 200px;
+	width: 200px;
+}
